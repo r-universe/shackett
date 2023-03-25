@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "romic"]
+	path = romic
+	url = https://github.com/cran/romic
+	shallow = true
+	registered = true
