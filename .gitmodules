@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "romic"]
 	path = romic
-	url = https://github.com/cran/romic
+	url = https://github.com/shackett/romic
